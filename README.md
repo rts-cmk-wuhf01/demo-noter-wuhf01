@@ -4,3 +4,7 @@
 let x = 10;
 ```
 I ovenstående kode opretter vi en **variabel** og sætter **værdien** til 10.
+
+```html
+<button id="min-knap"></button>
+```
