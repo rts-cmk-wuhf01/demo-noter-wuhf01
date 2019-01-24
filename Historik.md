@@ -4,8 +4,7 @@
 
 [Læs mere](https://github.com/rts-cmk-wuhf01/demo-noter-wuhf01/blob/master/010%20JS%20Udenad/010%20JS%20Udenad.md)
 
-Primær lærere: Ady Moussa (amo@rts.dk)
-
+Primær lærere: Ady Moussa (amo@rts.dk)<br>
 Hjælpelærere: Frank Goldmann (frg@rts.dk)
 
 Repository der indeholdte eksempler på Javascript kode, som man bør kunne skrive udenad.
